@@ -2,4 +2,5 @@ pyproject.toml
 c.cpp
 .venv
 .vscode
-new.py
+.cph
+uv.lock
